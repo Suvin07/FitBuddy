@@ -1,0 +1,41 @@
+📦 servicenow-client-script-ui-policy-incident
+│
+├── 📄 README.md
+│
+├── 📁 01-Brainstorming-and-Ideation
+│   └── 📄 01-Brainstorming-and-Ideation.pdf
+│
+├── 📁 02-Requirement-Analysis
+│   └── 📄 02-Requirement-Analysis.pdf
+│
+├── 📁 03-Project-Design
+│   ├── 📄 03-Project-Design.pdf
+│   ├── 🖼️ Workflow.png
+│   └── 🖼️ UI-Design.png
+│
+├── 📁 04-Project-Planning
+│   └── 📄 04-Project-Planning.pdf
+│
+├── 📁 05-Project-Development
+│   ├── 📄 05-Project-Development.pdf
+│   ├── 📁 Client-Script
+│   ├── 📁 UI-Policy
+│   └── 📁 Screenshots
+│
+├── 📁 06-Project-Testing
+│   ├── 📄 06-Project-Testing.pdf
+│   └── 📁 Test-Screenshots
+│
+├── 📁 07-Project-Documentation
+│   └── 📄 07-Project-Documentation-Detailed.pdf
+│
+├── 📁 08-Project-Demonstration
+│   ├── 📄 08-Project-Demonstration-Detailed.pdf
+│   ├── 📄 Demo-Video-Link.txt
+│   └── 📁 Demo-Screenshots
+│
+└── 📁 assets
+    ├── 🖼️ project-title.png
+    ├── 🖼️ purpose.png
+    ├── 🖼️ benefits.png
+    └── 🖼️ conclusion.png

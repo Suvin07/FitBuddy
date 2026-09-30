@@ -1,0 +1,4 @@
+Gemini API, prompts and AI plan-generation workflow:
+
+
+	Describes how Gemini models are connected and used to generate personalized fitness plans and recommendations.

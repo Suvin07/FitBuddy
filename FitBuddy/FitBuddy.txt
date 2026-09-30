@@ -1,0 +1,30 @@
+FitBuddy
+│
+├── User Module
+│   ├── Registration/Login
+│   └── Fitness Profile
+│
+├── Fitness Assessment
+│   ├── Age
+│   ├── Height/Weight
+│   ├── Fitness Level
+│   └── Fitness Goal
+│
+├── AI Plan Generator
+│   ├── Prompt Generation
+│   ├── Gemini API
+│   └── AI Response Processing
+│
+├── Workout Planner
+│   ├── Exercise List
+│   ├── Sets & Repetitions
+│   ├── Duration
+│   └── Weekly Schedule
+│
+├── AI Fitness Assistant
+│   └── Conversational Questions
+│
+└── Dashboard
+    ├── Current Plan
+    ├── Progress
+    └── Workout History

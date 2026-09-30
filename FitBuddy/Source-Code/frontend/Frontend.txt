@@ -1,0 +1,1 @@
+Contains the user interface and client-side code of the FitBuddy application.

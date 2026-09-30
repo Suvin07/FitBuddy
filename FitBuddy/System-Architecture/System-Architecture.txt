@@ -1,0 +1,4 @@
+Architecture diagram and component interaction:
+
+
+	Explains how the frontend, backend, database, and Gemini AI services communicate with each other.

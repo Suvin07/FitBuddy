@@ -1,0 +1,4 @@
+Development process and implementation details:
+
+
+	Explains how the planned features are converted into working application code.

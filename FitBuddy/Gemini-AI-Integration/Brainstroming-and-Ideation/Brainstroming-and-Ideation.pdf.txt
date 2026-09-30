@@ -1,0 +1,4 @@
+Initial ideas, problem identification and proposed concept:
+
+
+	Contains the initial project ideas, identified problems, proposed solution, and key concepts behind FitBuddy.

@@ -1,0 +1,45 @@
+📦 FitBuddy-AI-Fitness-Plan-Generator
+│
+├── 📄 README.md
+│
+├── 📁 01-Brainstorming-and-Ideation
+│   └── 📄 01-Brainstorming-and-Ideation.pdf
+│
+├── 📁 02-Requirement-Analysis
+│   └── 📄 02-Requirement-Analysis.pdf
+│
+├── 📁 03-Project-Design
+│   └── 📄 03-Project-Design.pdf
+│
+├── 📁 04-System-Architecture
+│   └── 📄 04-System-Architecture.pdf
+│
+├── 📁 05-Database-Design
+│   └── 📄 05-Database-Design.pdf
+│
+├── 📁 06-UI-UX-Design
+│   └── 📄 06-UI-UX-Design.pdf
+│
+├── 📁 07-Implementation
+│   └── 📄 07-Implementation.pdf
+│
+├── 📁 08-Gemini-AI-Integration
+│   └── 📄 08-Gemini-AI-Integration.pdf
+│
+├── 📁 09-Testing
+│   └── 📄 09-Testing.pdf
+│
+├── 📁 10-Results-and-Screenshots
+│   └── 📄 10-Results-and-Screenshots.pdf
+│
+├── 📁 11-Future-Enhancements
+│   └── 📄 11-Future-Enhancements.pdf
+│
+├── 📁 12-Project-Report
+│   └── 📄 12-Project-Report.pdf
+│
+└── 📁 Source-Code
+    ├── 📁 frontend
+    ├── 📁 backend
+    ├── 📁 database
+    └── 📁 config

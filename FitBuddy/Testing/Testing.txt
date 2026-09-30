@@ -1,0 +1,4 @@
+Test cases, results and bug testing:
+
+
+	Contains test cases and results used to verify that FitBuddy functions correctly and reliable.

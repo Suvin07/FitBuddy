@@ -1,0 +1,4 @@
+Complete final project documentation:
+
+
+	Contains the complete documentation of the project, from introduction and requirements to implementation and results.

@@ -1,0 +1,4 @@
+Functional and non-functional requirements:
+
+
+	Defines the functional and non-functional requirements needed to develop the application.

@@ -1,0 +1,4 @@
+Database tables, relationships and ER diagram:
+
+
+	Contains the initial project ideas, identified problems, proposed solution, and key concepts behind FitBuddy.

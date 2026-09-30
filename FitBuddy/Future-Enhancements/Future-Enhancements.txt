@@ -1,0 +1,4 @@
+Possible improvements and additional features:
+
+
+	Describes additional features that can be added in future versions of FitBuddy.

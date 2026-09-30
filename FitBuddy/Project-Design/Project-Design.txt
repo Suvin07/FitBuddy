@@ -1,0 +1,4 @@
+Overall application and module design:
+
+
+	Describes the overall design of FitBuddy, including modules, workflows, and system components.
